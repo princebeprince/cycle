@@ -1,0 +1,7 @@
+Django==3.2.8
+django_colorfield==0.4.5
+imgkit==1.2.2
+numpy==1.21.2
+opencv_python==4.5.3.56
+Pillow==8.4.0
+requests==2.26.0
